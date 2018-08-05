@@ -1,3 +1,4 @@
+# medium.com clone react
 
 - Clone this repo
 - `npm install` to install all req'd dependencies
@@ -34,5 +35,3 @@
     - List of articles populated from author's created articles or author's favorited articles
 
 <br />
-
-# mediumclone_react
